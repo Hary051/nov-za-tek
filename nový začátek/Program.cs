@@ -14,7 +14,18 @@
         double avg1= result / numbers.Length;
         return avg1;
     }
+
+    void Plus()
+    {
+        Console.WriteLine(1);
+    }
+    void Minus()
+    {
+        Console.Write(1);
+    }
+}
+
     } 
 
-
 }
+
