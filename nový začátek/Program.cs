@@ -2,12 +2,8 @@
 {
     private static void Main(string[] args)
     {
-        int[] numbers = new int[] { 1,5,9 };
-        double a=Avg(numbers);
-        Console.WriteLine(a);
-       
-    }
-    private static double Avg(int[] numbers)
+        Console.WriteLine("12211");
+     static double Avg(int[] numbers)
     {
         int result = 0;
         int avg;
@@ -18,6 +14,7 @@
         double avg1= result / numbers.Length;
         return avg1;
     }
+
     void Plus()
     {
         Console.WriteLine(1);
@@ -26,5 +23,6 @@
     {
         Console.Write(1);
     }
+    }
 }
-new important update 1
+111
