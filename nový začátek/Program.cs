@@ -22,4 +22,8 @@
     {
         Console.WriteLine(1);
     }
+    void Minus()
+    {
+        Console.Write(1);
+    }
 }
